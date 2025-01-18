@@ -1,6 +1,4 @@
-===================================================
-TrendsFetcher: Google Trends Data via OpenAI API
-===================================================
+=TrendsFetcher: Google Trends Data via OpenAI API=
 
 Thank you for downloading TrendsFetcher, a lightweight PHP script designed to fetch, parse, and display Google Trends data via RSS feeds. This script is free and easy to use!
 
